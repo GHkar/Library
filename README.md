@@ -2,7 +2,7 @@
 : 데이터베이스 프로그래밍 기말 과제로 만든 프로젝트   
 책과 비디오를 대여할 수 있는 대여점 데이터베이스
 
-<img src="Resources/2.png" height="500x" align="center"></img>
+<p align="center"><img src="Resources/2.png" height="500x"></img></p>
 
 
 ## DB Schema
